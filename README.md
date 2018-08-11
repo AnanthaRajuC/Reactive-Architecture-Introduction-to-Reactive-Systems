@@ -10,3 +10,5 @@ https://www.lightbend.com/blog/learn-reactive-architecture-for-free-at-your-own-
 2.1 [Why Reactive](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/1%20Why%20Reactive.md)
 
 2.2 [Case Study - History of Reactive BBQ](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/2%20Case%20Study%20-%20History%20of%20Reactive%20BBQ.md)
+
+2.3 [Discussion : Unresponsive Software](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/3%20Discussion%20-%20Unresponsive%20Software.md)

@@ -1,7 +1,7 @@
 # Reactive Architecture: Introduction to Reactive Systems (Lightbend -  LB0101ENv1)
 
-Course Announcement
-https://www.lightbend.com/blog/learn-reactive-architecture-for-free-at-your-own-pace
+- [Course Announcement](https://www.lightbend.com/blog/learn-reactive-architecture-for-free-at-your-own-pace)
+- [Course on cognitiveclass.ai](https://cognitiveclass.ai/courses/reactive-architecture-introduction/)
 
 ### Table of Content
 
@@ -14,3 +14,9 @@ https://www.lightbend.com/blog/learn-reactive-architecture-for-free-at-your-own-
 2.3 [Discussion : Unresponsive Software](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/3%20Discussion%20-%20Unresponsive%20Software.md)
 
 2.4 [Case Study : The Unresponsive BBQ](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/4%20Case%20Study%20-%20The%20Unresponsive%20BBQ.md)
+
+2.5 2.4 [The Goal](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/5%20The%20Goal.md)
+
+### Resources
+
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)

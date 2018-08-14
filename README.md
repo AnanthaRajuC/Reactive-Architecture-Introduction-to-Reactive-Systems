@@ -15,7 +15,9 @@
 
 2.4 [Case Study : The Unresponsive BBQ](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/4%20Case%20Study%20-%20The%20Unresponsive%20BBQ.md)
 
-2.5 2.4 [The Goal](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/5%20The%20Goal.md)
+2.5 [The Goal](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/2%20Why%20Reactive/5%20The%20Goal.md)
+
+3.1 [The Reactive Principles](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/3%20The%20Reactive%20Principles/3.1%20The%20Reactive%20Principles.md)
 
 ### Resources
 

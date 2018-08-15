@@ -21,6 +21,8 @@
 
 4.1 [Reactive Systems vs Reactive Programming](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/4%20Reactive%20Systems%20vs%20Reactive%20Programming/4.1%20Reactive%20Programming.md)
 
+4.1 [The Actor Model](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/4%20Reactive%20Systems%20vs%20Reactive%20Programming/4.1%20Reactive%20Programming.md)
+
 ### Resources
 
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)

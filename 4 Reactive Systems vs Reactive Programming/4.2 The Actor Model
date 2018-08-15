@@ -1,0 +1,73 @@
+## The Actor Model
+
+- The Actor Model is a reactive programming tool.
+- It was created in the early 70s by Carl Hewitt. 
+- The basic idea is that the principle abstraction is encapsulating all computation inside of an actor.
+- It is a programming paradigm that supports the construction of reactive systems.
+- Like with any other reactive programming tool, just because you use the actor model doesn't necessarily mean you have built a reactive system. 
+- It does provide facilities to very readily support all of the reactive principles.
+- It is Message Driven, all communication between actors is done using asynchronous non-blocking messages.
+- It also provides abstractions that give us elasticity and resilience. 
+- On the JVM
+	- Akka implements actor model
+	- Akka is the foundation for tools like Lagom and Akka Streams
+	
+### Fundamental concepts of the actor model
+
+- All computation occurs inside of an actor.
+- At some point in your application you will have one or more actors--ideally more than one, a single actor is not actually that useful.
+- Each actor has unique addresss.
+- Actors communicate only through asynchronous messages. That is the only way they can talk to each other. 
+
+### Location Transparency
+
+- Message driven nature of actors spports location transparency.
+- Location Transparency: 
+- Actors communicate with the same technique regardless of location.
+- Actors send messages with no knowledge of the location of where that message is going to go. 
+	- It doesn't use a specific technique to send to a remote actor
+	- There isn't a different API to send a remote actor. 
+	- The API is identical no matter whether it's sending to a remote actor or a local actor.
+- This enables actors to be both resilient and elastic. 
+	- The way that it does that is because now we can deploy those actors across multiple pieces of hardware which means they are resilient if one of those pieces of hardware fails because we have other ones to fill in the gap. 
+	- It also allows it to be elastic because if we have a high level of load we can simply add more routees on more pieces of hardware giving us elasticity. If we need to scale down we can remove some of those remote JVMs. 
+	
+### Location Transparency vs Transparency Remoting
+
+- Transparent remoting basically tries to take remote calls and make them look like local calls.
+- Location Transparency makes local calls look like remote calls.
+
+#### Importance of the actor model
+
+- There are many reactive programming tools like Futures, Streams, RxJava, RxScala etc., 
+- Most of them support only some of the reactive principles.
+- You often have to combine different technologies if you want to build a reactive system.
+- The Actor Model provides facilities to support all of their reactive principles
+	- It is message driven by default.
+	- The location transparency is there to support elasticity and resilience through distribution.	- Elasticity and Resilience then provide responsiveness under a wide variety of circumstances.
+- It is still possible to write a system with the Actor Model and not be reactive.
+
+
+#### Reactive systems without actors
+
+- It is possible to build reactive systems without actors.
+- Components are added on reather than being built in.
+- Requires additional infrastructure such as 
+	- Service Registry
+	- Load Balancer
+	- Message Bus
+- Result will be reactive at the large scale, not necessarily small.
+- It's reactive at the scale of microservices but it's not necessarily reactive within those microservices. 
+- The actor model can be reactive at the level of actors and actors are within a microservice. Multiple actors can be present within a single microservice. 
+	
+####  Reactive systems can be built without actors or without the Actor Model
+
+
+
+
+
+
+
+
+
+

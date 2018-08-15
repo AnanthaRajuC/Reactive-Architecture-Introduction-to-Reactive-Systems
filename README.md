@@ -1,12 +1,28 @@
 # [Reactive Architecture: Introduction to Reactive Systems (Lightbend -  LB0101ENv1)](https://cognitiveclass.ai/courses/reactive-architecture-introduction/)
 
-## First of Six Free and Self-paced Online Courses On Reactive Architecture
+#### First of Six Free and Self-paced Online Courses On Reactive Architecture
 
 - [Course Announcement](https://www.lightbend.com/blog/learn-reactive-architecture-for-free-at-your-own-pace)
-- [Course Syllabus](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/Course%20Syllabus.md)
-- Course Staff - (Wade Waldron)[Twitter](https://twitter.com/wdwaldron), [Linkedin](https://www.linkedin.com/in/wade-waldron)
+- Course Staff - (Wade Waldron) [Twitter](https://twitter.com/wdwaldron), [Linkedin](https://www.linkedin.com/in/wade-waldron)
 
 ### Course Completion Certificate [Acclaim](https://www.youracclaim.com/badges/142c45b1-ab3b-42a3-b13d-05c37c44b9a1) and [CognitiveClass.ai](https://courses.cognitiveclass.ai/certificates/740f9ce9677f44f59f941e47d1638738)
+
+### Course Syllabus
+
+- Why Reactive
+	- What is the problem that Reactive Architecture is attempting to solve?
+	- How does unresponsive software impact it's users?
+	- What is the goal of Reactive Architecture?
+- Reactive Principles
+	- An introduction to the Reactive Manifesto
+	- An explanation of the Reactive Principles
+- Reactive Systems vs Reactive Programming
+	- What are Reactive Systems?
+	- What is Reactive Programming?
+	- How are Reactive Systems related to Reactive Programming?
+	- The Actor Model and it's relationship to Reactive Systems.
+- Case Study: Reactive BBQ
+	- An analysis of a specific case study
 
 ### Table of Content
 

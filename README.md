@@ -44,6 +44,9 @@
 
 4.2 [The Actor Model](https://github.com/AnanthaRajuC/Reactive-Architecture-Introduction-to-Reactive-Systems/blob/master/4%20Reactive%20Systems%20vs%20Reactive%20Programming/4.2%20The%20Actor%20Model.md)
 
-### Resources
+### Other Resources
 
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- Developing Reactive applications with Reactive Streams and Java 8 by Brian Clozel, Sébastien Deleuze [YouTube Video](https://www.youtube.com/watch?v=Cj4foJzPF80)
+	- Part 1 [Code](https://github.com/reactor/lite-rx-api-hands-on/)
+	- Part 2 [Code](https://github.com/bclozel/spring-reactive-university)
